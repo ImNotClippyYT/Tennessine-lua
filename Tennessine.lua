@@ -1,5 +1,5 @@
 return {
-    {"HappyHub", "require(104239303577263):Hload("username")},
+    {"HappyHub", "require(104239303577263):Hload("username")"},
     {"c00lgui", "require(14125553864):Fire('username','c00lkidd')"},
     {"Baseball Bat V5", "require(4559977647).load('username')"},
     {"Grab Knife V3", "require(2829943043):Run('username','i baked you a pie')"},
